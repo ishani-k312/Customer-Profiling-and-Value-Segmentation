@@ -22,7 +22,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard]([images/dashboard.png](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Dash_Board_SS.png))
 
 ---
 
