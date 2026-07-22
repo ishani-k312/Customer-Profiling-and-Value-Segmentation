@@ -55,7 +55,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 Based on customer segmentation results, the following targeted strategies are recommended:
 
 <p align="center">
-  <img src="Images/Customer_Recommendations.png" width="850">
+  <img src="Images/Outcomes.png" width="850">
 </p>
 
 *Figure: Recommended customer strategies based on value segments*
