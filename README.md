@@ -97,6 +97,27 @@ Customers were classified into five value tiers:
 
 ---
 
+# 🔍 Key Insights
+
+### 💎 Platinum Customers
+- Maintain the highest balances and income levels
+- Own more banking products
+- Show strong transaction activity and digital engagement
+
+### 🥇 Gold Customers
+- Represent the strongest upgrade opportunity
+- Can be moved towards Platinum through targeted wealth solutions
+
+### 🥈 Silver Customers
+- Provide significant cross-selling opportunities
+
+### 🥉 Bronze Customers
+- Require digital adoption and engagement improvement
+
+### ⚫ Black Customers
+- Represent customer activation opportunities
+
+---
 
 
 
