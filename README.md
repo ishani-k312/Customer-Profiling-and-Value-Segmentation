@@ -126,14 +126,17 @@ Interactive Power BI dashboard developed to analyze customer segmentation, custo
   <img src="Dash_Board_SS.JPG" width="850">
 </p>
 
-
-
-
-## 📊 Dashboard Preview
-
-![Dashboard](Dash_Board_SS.png)
-
 ---
+# 💡 Strategic Recommendations
+
+Based on customer segmentation results, targeted business actions were developed.
+
+<p align="center">
+<img src="Images/Outcomes.png" width="900">
+</p>
+
+
+
 
 ## 📈 Interactive Dashboard
 
