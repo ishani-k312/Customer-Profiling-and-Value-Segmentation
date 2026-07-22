@@ -29,7 +29,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 ## 📈 Interactive Dashboard
 
 🔗 **Power BI Dashboard:**  
-*[Customer _egmentation Analysis_Dash_Board.pbit](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pbit)*
+*[Customer _Segmentation Analysis_Dash_Board.pbit](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pbit)*
 
 ---
 
@@ -61,7 +61,7 @@ The original dataset is not included in this repository because it is based on a
 
 **Ishani Kodithuwakku**
 
-Aspiring Data Analyst
+Data Analyst
 
 🔗 LinkedIn: www.linkedin.com/in/ishani-kodithuwakku-275b29220
 
