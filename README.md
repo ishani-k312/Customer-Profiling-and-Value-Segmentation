@@ -119,6 +119,14 @@ Customers were classified into five value tiers:
 
 ---
 
+# 📊 Dashboard Preview
+
+Interactive Power BI dashboard developed to analyze:
+
+<p align="center">
+<img src="Images/Dash_Board_SS.png" width="900">
+</p>
+
 
 
 
