@@ -41,6 +41,22 @@ The project demonstrates how customer data can be transformed into meaningful in
 
 ---
 
+## 📑 Business Presentation
+Executive presentation summarizing:
+- Business objective
+- Data preparation process
+- Customer scoring methodology
+- Segmentation framework
+- Key insights
+- Strategic recommendations
+
+📄 Presentation:
+[Customer Segmentation Analysis Presentation](Presentation/Customer_Segmentation_Analysis_Presentation.pdf)
+
+
+
+
+
 ## 💡 Key Highlights
 
 - Cleaned and prepared customer data for analysis.
