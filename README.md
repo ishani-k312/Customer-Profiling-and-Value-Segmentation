@@ -37,7 +37,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 
 - 📓 Customer Profiling Analysis Notebook (*[Customer _Segmentation Analysis_Python_Code.ipynb](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Python_Code.ipynb)*)
 -  📄 Project Report (*[Customer _Segmentation Analysis_Final_Report.pdf](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Final_Report.pdf)*)
-- 📊 Power BI Dashboard (PDF) (*[Customer _Segmentation Analysis_Dash_Board.pdf]()*)
+- 📊 Power BI Dashboard (PDF) (*[Customer _Segmentation Analysis_Dash_Board.pdf](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pdf)*)
 
 ---
 
