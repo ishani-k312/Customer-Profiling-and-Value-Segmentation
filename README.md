@@ -35,7 +35,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 
 ## 📂 Project Files
 
-- 📓 Customer Profiling Analysis Notebook (`.ipynb`)
+- 📓 Customer Profiling Analysis Notebook (`Customer _egmentation Analysis_Python_Code.ipynb`)
 - 📄 Project Report (`.pdf`)
 - 📊 Power BI Dashboard (`.pbix`)
 
