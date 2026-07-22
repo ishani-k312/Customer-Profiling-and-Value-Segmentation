@@ -29,7 +29,7 @@ The project demonstrates how customer data can be transformed into meaningful in
 ## 📈 Interactive Dashboard
 
 🔗 **Power BI Dashboard:**  
-*Add your Power BI report link here*
+*[Add your Power BI report link here](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pbit)*
 
 ---
 
