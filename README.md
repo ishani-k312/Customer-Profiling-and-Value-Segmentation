@@ -118,13 +118,12 @@ Customers were classified into five value tiers:
 - Represent customer activation opportunities
 
 ---
+## 📊 Dashboard Preview
 
-# 📊 Dashboard Preview
-
-Interactive Power BI dashboard developed to analyze:
+Interactive Power BI dashboard developed to analyze customer segmentation, customer value, engagement, and key business metrics.
 
 <p align="center">
-<img src="Images/Dash_Board_SS.JPG" width="900">
+  <img src="./Images/Dash_Board_SS.JPG" alt="Power BI Dashboard Preview" width="900">
 </p>
 
 
