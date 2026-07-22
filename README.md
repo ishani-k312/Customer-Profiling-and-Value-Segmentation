@@ -41,22 +41,6 @@ The project demonstrates how customer data can be transformed into meaningful in
 
 ---
 
-## 📑 Business Presentation
-Executive presentation summarizing:
-- Business objective
-- Data preparation process
-- Customer scoring methodology
-- Segmentation framework
-- Key insights
-- Strategic recommendations
-
-📄 Presentation:
-[Customer Segmentation Analysis Presentation](Presentation/Customer_Segmentation_Analysis_Presentation.pdf)
-
-
-
-
-
 ## 💡 Key Highlights
 
 - Cleaned and prepared customer data for analysis.
@@ -66,6 +50,17 @@ Executive presentation summarizing:
 - Designed an interactive Power BI dashboard to visualize customer insights and support business decision-making.
 
 ---
+## 💡 Strategic Recommendations
+
+Based on customer segmentation results, the following targeted strategies are recommended:
+
+<p align="center">
+  <img src="Images/Customer_Recommendations.png" width="850">
+</p>
+
+*Figure: Recommended customer strategies based on value segments*
+
+
 
 ## ⚠️ Note
 
