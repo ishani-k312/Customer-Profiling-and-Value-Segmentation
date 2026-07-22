@@ -81,7 +81,21 @@ Customers were evaluated across five dimensions:
 Customer scores were calculated using normalized variables:
 
 
+---
 
+# 🏷️ Customer Segmentation Results
+
+Customers were classified into five value tiers:
+
+| Tier | Score Range | Customer Profile |
+|---|---|---|
+| 💎 Platinum | ≥60 | High-value customers with strong financial and engagement levels |
+| 🥇 Gold | 50–59 | Strong customers with Platinum potential |
+| 🥈 Silver | 40–49 | Moderate customers with cross-selling opportunities |
+| 🥉 Bronze | 30–39 | Growth opportunity segment |
+| ⚫ Black | <30 | Low engagement customers |
+
+---
 
 
 
