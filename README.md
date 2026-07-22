@@ -1,24 +1,91 @@
-# 🏦 Customer Profiling and Value Segmentation Analysis
+# 📊 Customer Profiling and Value Segmentation Analysis
 
-## 📌 Overview
+## 📌 Project Overview
 
-This project focuses on understanding customer behaviour and segmenting customers based on their overall value to the bank. Using Python for data analysis and Power BI for visualization, I developed a scoring model that classifies customers into different value tiers to support better business decisions.
+This project develops a customer profiling and value segmentation framework for a banking customer base by transforming customer behaviour, financial attributes, product ownership, and engagement data into actionable business insights.
 
-The project demonstrates how customer data can be transformed into meaningful insights that help identify high-value customers, improve customer retention, and uncover opportunities for targeted marketing.
+A transparent weighted scoring model was developed to classify customers into five value segments:
+
+- 💎 Platinum
+- 🥇 Gold
+- 🥈 Silver
+- 🥉 Bronze
+- ⚫ Black
+
+The analysis helps identify high-value customers, growth opportunities, retention risks, and targeted strategies to improve customer lifetime value.
+
+---
+
+# 🎯 Business Problem
+
+Banks serve customers with different levels of financial value and engagement. Traditional segmentation methods may not provide clear business actions.
+
+This analysis aims to answer:
+
+- Who are the most valuable customers?
+- Which customers have potential to grow?
+- Which customers require retention actions?
+- How can marketing strategies be personalized?
+
+The framework supports:
+
+✅ Customer retention  
+✅ Cross-selling opportunities  
+✅ Targeted marketing campaigns  
+✅ Relationship management  
+✅ Customer value optimization  
 
 ---
 
-## 🚀 Tools Used
+# 📂 Dataset & Data Preparation
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Power BI
-- Microsoft Excel
-- Google Colab
+## Dataset Overview
+
+The dataset contained **1,006 customer records** covering:
+
+- Customer demographics
+- Financial behaviour
+- Product ownership
+- Transaction activity
+- Digital engagement
+
+## Data Preparation Activities
+
+The dataset was cleaned and validated through:
+
+| Activity | Purpose |
+|---|---|
+| Duplicate removal | Prevent double counting |
+| Invalid value removal | Improve data quality |
+| Missing value treatment | Maintain complete analysis |
+| Category standardization | Ensure consistency |
+
+After data preparation, the dataset was suitable for customer profiling and segmentation.
 
 ---
+
+# 📈 Customer Scoring Framework
+
+Instead of using complex clustering techniques, a business-friendly weighted scoring model was developed.
+
+Customers were evaluated across five dimensions:
+
+| Dimension | Weight | Key Variables |
+|---|---|---|
+| Financial Strength | 35% | Income, Savings Balance, Average Balance |
+| Transaction Behaviour | 25% | Monthly Transactions, Transaction Days |
+| Product Ownership | 20% | Number of Products Held |
+| Digital Engagement | 10% | Mobile App Usage |
+| Relationship History | 10% | Customer Tenure |
+
+Customer scores were calculated using normalized variables:
+
+
+
+
+
+
+
 
 ## 📊 Dashboard Preview
 
