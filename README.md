@@ -129,41 +129,6 @@ Interactive Power BI dashboard developed to analyze customer segmentation, custo
 ---
 # 💡 Strategic Recommendations
 
-Based on customer segmentation results, targeted business actions were developed.
-
-<p align="center">
-<img src="Images/Outcomes.png" width="900">
-</p>
-
-
-
-
-## 📈 Interactive Dashboard
-
-🔗 **Power BI Dashboard:**  
-*[Customer _Segmentation Analysis_Dash_Board.pbit](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pbit)*
-
----
-
-## 📂 Project Files
-
-- 📓 Customer Profiling Analysis Notebook (*[Customer _Segmentation Analysis_Python_Code.ipynb](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Python_Code.ipynb)*)
--  📄 Project Report (*[Customer _Segmentation Analysis_Final_Report.pdf](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Final_Report.pdf)*)
-- 📊 Power BI Dashboard (PDF) (*[Customer _Segmentation Analysis_Dash_Board.pdf](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pdf)*)
-
----
-
-## 💡 Key Highlights
-
-- Cleaned and prepared customer data for analysis.
-- Performed exploratory data analysis to understand customer behaviour.
-- Built a weighted customer scoring model using financial and behavioural metrics.
-- Segmented customers into five business value tiers: Platinum, Gold, Silver, Bronze, and Black.
-- Designed an interactive Power BI dashboard to visualize customer insights and support business decision-making.
-
----
-## 💡 Strategic Recommendations
-
 Based on customer segmentation results, the following targeted strategies are recommended:
 
 <p align="center">
@@ -173,12 +138,53 @@ Based on customer segmentation results, the following targeted strategies are re
 *Figure: Recommended customer strategies based on value segments*
 
 
+---
+
+# 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Python | Data cleaning and analysis |
+| Pandas | Data manipulation |
+| NumPy | Numerical calculations |
+| Scikit-learn | Feature scaling |
+| Matplotlib | Data visualization |
+| Power BI | Dashboard development |
+| Microsoft Excel | Data validation |
+| Google Colab | Python environment |
+
+---
+
+## 📂 Project Files
+
+- 📓 Customer Profiling Analysis Notebook (*[Customer _Segmentation Analysis_Python_Code.ipynb](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Python_Code.ipynb)*)
+-  📄 Project Report (*[Customer _Segmentation Analysis_Final_Report.pdf](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Final_Report.pdf)*)
+- 📊 Power BI Dashboard  (*[Customer _Segmentation Analysis_Dash_Board.pbit](https://github.com/ishani-k312/Customer-Profiling-and-Value-Segmentation/blob/main/Customer%20_egmentation%20Analysis_Dash_Board.pbit)*)
+
+---
+
+# 🚀 Future Improvements
+
+Potential future enhancements:
+
+- Predictive customer churn modelling
+- Machine learning-based segmentation
+- Real-time customer scoring dashboard
+- Integration with external demographic and credit bureau data
+
+---
 
 ## ⚠️ Note
 
 The original dataset is not included in this repository because it is based on a real-world banking scenario and contains confidential information.
 
 ---
+# 📎 Project Notebook
+
+Google Colab:
+
+([Customer Profiling Analysis Notebook](https://colab.research.google.com/drive/1AiYarJdN1Qd1GjPqaG3diBAAuJCwaNLE?usp=sharing))
+
 
 ## 👩‍💻 Author
 
